@@ -1,1 +1,1 @@
-# Social-Buzz
+SocialBuzz is a dynamic social media analytics tool designed to track, analyze, and visualize social media trends, engagement, and audience behavior. It empowers users to make data-driven decisions to optimize their online presence
